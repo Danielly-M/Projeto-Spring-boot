@@ -1,0 +1,5 @@
+package clienteDepartamento.registroCliente;
+
+public class HelloController {
+
+}
